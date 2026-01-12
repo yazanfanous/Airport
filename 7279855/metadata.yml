@@ -1,0 +1,12 @@
+---
+:id: 7279855
+:submitters:
+- :name: Yazan Fanous
+  :email: yfanous2@uwo.ca
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-12-06 19:09:33.562608000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-12-06 11:09:33.562608000 Z
+:status: processed
+:score: 20.0
